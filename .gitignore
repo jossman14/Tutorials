@@ -3,4 +3,5 @@
 .ipynb_checkpoints/
 .idea
 */.idea
-*/*/.idea
+*/*/.idea*.h5
+Introduction to Data Visualization in Python/winemag-data-130k-v2.csv
