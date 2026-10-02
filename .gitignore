@@ -6,3 +6,9 @@
 */*/.idea
 *.h5
 Introduction to Data Visualization in Python/winemag-data-130k-v2.csv
+winemag-data-130k-v2.csv
+*.hdf5
+Introduction to Machine Learning in C# with ML.NET/CreditCardFraudDetection/CreditCardFraudDetection/assets/model.zip
+Recommendation System/book_tags.csv
+Recommendation System/ratings.csv
+Recommendation System/to_read.csv
